@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+portfolio.json
+models.json
+history.jsonl
+private/
+*.local.json
+*.local.jsonl
